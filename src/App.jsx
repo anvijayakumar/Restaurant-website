@@ -1,6 +1,6 @@
 import React from 'react'
 import "./App.css";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
 import Sample from "./components/sample";
