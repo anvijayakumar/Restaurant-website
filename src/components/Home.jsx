@@ -5,7 +5,6 @@ import grid1 from "../assets/grid1.png";
 import grid2 from "../assets/grid2.png";
 import spoon from "../assets/spoon-icon.png";
 import groups from "../assets/Group-icons.png";
-import vector from "../assets/vectorbg.png";
 import biriyani from "../assets/briyani.png";
 import Chicken from "../assets/chicken.png";
 import burger from "../assets/burger.png";
